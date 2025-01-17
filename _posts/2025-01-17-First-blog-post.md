@@ -6,3 +6,6 @@ categories: post
 # Hello World!
 
 Welcome to my new blog! I will be sharing homelab / esports analytics and random other projects here in the form of blog posts.
+
+`bash
+sudo apt-get install ruby-full`
