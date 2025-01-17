@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
 title: Allan Cao's Technology Blog
 description: Homelab and side projects
-#plugins:
-  #  - jekyll-include-cache
-  # remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache
+ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
